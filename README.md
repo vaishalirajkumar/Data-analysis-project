@@ -3,7 +3,7 @@
 
 <p>
   <a>
-    <img src="https://github.com/apex-analytics-solutions/Human-Resources-Employee-Attrition-Analysis/blob/main/HR%20Employee%20Attrition.png" alt="Profile Picture" /></a>
+    <img src="C:\Users\vaishali\Downloads\fashion_boutique_dataset.csv" alt="Profile Picture" /></a>
 </p>
 
 <h2>🎯 Project Objectives</h2>
